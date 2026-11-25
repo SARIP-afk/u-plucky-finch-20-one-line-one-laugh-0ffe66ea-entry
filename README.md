@@ -9,16 +9,17 @@ A program (Node 22, no dependencies) that writes one funny line of text to
 
 ## The line
 
-> My smoke alarm and I have an understanding: it screams, I wave a tea towel, and we both pretend I'm a functioning adult.
+> My fridge light went out, so now I eat in the dark like a raccoon with a mortgage.
 
-120 characters, 120 bytes, no trailing newline.
+82 characters, 82 bytes, no trailing newline.
 
-Why this line: the joke lands inside the line with no setup the reader has
-to supply — a smoke alarm that "screams" while its owner waves a tea towel
-is an image everyone recognises instantly, and the twist is the quiet
-bargain at the end: both sides pretending the owner is a functioning adult.
-The humour comes from the speaker's own cheerful incompetence, never from
-mocking anyone else, and every word earns its place.
+Why this line: the laugh lands inside the line with no setup the reader
+has to supply — a dead fridge bulb, eating in the dark, and then the twist:
+a raccoon (a nocturnal scavenger that eats in the dark) with a mortgage (an
+adult homeowner's burden). The collision of a wild animal and grown-up
+responsibility is unexpected, the wording is tight at 82 characters, and the
+line still amuses on a second read and is easy to repeat. The humour is
+self-deprecation aimed at the speaker, never at anyone else.
 
 ## Run
 
